@@ -1,0 +1,56 @@
+{
+    "name": "0.0.250",
+    "version": "0.0.249",
+    "description": "Plugin For Fingerprint",
+    "cordova": {
+        "id": "com.futronictech",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "author": {
+        "name": "Luminov"
+    },
+    "license": "Luminov",
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.4.0"
+        }
+    ],
+    "_id": "0.0.250@0.0.249",
+    "scripts": {},
+    "_shasum": "e395f99a417237d38cf702706929fb412dd498a3",
+    "_from": ".",
+    "_npmVersion": "3.10.10",
+    "_nodeVersion": "7.3.0",
+    "_npmUser": {
+        "name": "ramadhyanto",
+        "email": "muhammad.renaldi@luminov.com"
+    },
+    "dist": {
+        "shasum": "e395f99a417237d38cf702706929fb412dd498a3",
+        "tarball": "https://registry.npmjs.org/0.0.250/-/0.0.250-0.0.249.tgz",
+        "integrity": "sha512-tMU2oeu5YMxELfz98cJ6nt6dS7W3uLOIk4nb/QAumWrtYI8lw+/aWVJ49GUVORxqF3CLshGnUJj+5OCLRPKyhA==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCI0zSgFdVqUbGi21wXFjZGNyS7dz8L4eOsOTTGZQU+YwIhAJ/WoYo54nqsHBjw37Les8aptgB0HO+3rjidkp8LP3sX"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "ramadhyanto",
+            "email": "muhammad.renaldi@luminov.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-18-east.internal.npmjs.com",
+        "tmp": "tmp/0.0.250-0.0.249.tgz_1488960346366_0.36860265652649105"
+    }
+}

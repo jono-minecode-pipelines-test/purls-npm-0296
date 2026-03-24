@@ -1,0 +1,55 @@
+{
+    "name": "-keyboardevent",
+    "version": "1.0.0",
+    "description": "\u76d1\u542c\u952e\u76d8\u4e8b\u4ef6",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RegExpRegExp/-KeyboardEvent.git"
+    },
+    "author": {
+        "name": "yanggw"
+    },
+    "license": "ISO",
+    "bugs": {
+        "url": "https://github.com/RegExpRegExp/-KeyboardEvent/issues"
+    },
+    "homepage": "https://github.com/RegExpRegExp/-KeyboardEvent#readme",
+    "gitHead": "e8c5683b98d68b915eeb79656ce6717efca676b3",
+    "_id": "-keyboardevent@1.0.0",
+    "_nodeVersion": "12.10.0",
+    "_npmVersion": "6.10.3",
+    "dist": {
+        "integrity": "sha512-8G0t8AQlDyfE2xGIXpte6gFQs2lr48BoQYMGHTytshClyKUfzmX7YHYLxerqX2rp82KgsPCgq1r/3yC2UTmr/g==",
+        "shasum": "b81a787d8748ffaf882a73f3ae47f1d38a8da5d5",
+        "tarball": "https://registry.npmjs.org/-keyboardevent/-/-keyboardevent-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 2714,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfbYnwCRA9TVsSAnZWagAAtDgP/0LCWxCot5zaM4KZXv/6\nlAdCfVDpFhmsV7I5v0pvVu4aY2OQt5VnPQD6nSfrlKflLSB88+Asoi4X2Xhh\nT1/zo8GE+RFUJ98Kh/1H53+6KQiMEZVWlxKMf9LxgBy8TRVcpZaj9BNCr7wG\nZ2t+NR6LaVvb1WkEB0ZtWzbHA3IMucIibkLC4W/JIZtzjmPl4FWUr1Aq/BMS\nr4dd7WROxObns+Na8p10UAEGYkEZjL68L7g2gm7u/70nCV+IvG/Q5ACufxxM\npxJycEto6v/3LbEmNxocnKZaYwLFc7Mhx5zIytvGS29e1FEoRx3Qyyq5opMA\nANWuv1zq1r/m4XtPL5ZN0PtkIRdWHz4xIdOVEI9GuCfFxiY/vd4/vYDWNUZL\nNk11LGR0VYeJaPYCdz0BrYK2R425/LVThkvy/n2EWQ81gpsnVDeerwVfNj2L\n6GsTUqceDnLLNEjhdQEGsCvMsF72974W0bolXdJjwKx8z+30lUmzOIvXPNrB\nt/O6kDCerhd0aMT6KADNMtijci9Mnm2AovcwWa9M8jfw2LsF2zbXYPfZ1CIK\nDbhgF9QUWZyOT2rahkN7Hn7G7OH8dndiuAa+liggB2DJkhZS1XelMJfShGJj\nMYmZ9LYykLocD3gbi4+pE/Y200UlE+MNrc8Jp+MWaXbwjTkfj+V/mAao0Q3z\nIL5/\r\n=Ye2g\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCID2RU7tCK8v/kRhvkukNQmsj0HGdFidLI0ENGFnAgswcAiEAt68QHuYkmG/FKF1jBiV4234ONJeGk8mZ0N4cOKL4i4M="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "yanggw",
+            "email": "2993065178@qq.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "yanggw",
+        "email": "2993065178@qq.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-keyboardevent_1.0.0_1601014256394_0.736974638502927"
+    },
+    "_hasShrinkwrap": false
+}
