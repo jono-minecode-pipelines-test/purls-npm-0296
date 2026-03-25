@@ -1,0 +1,72 @@
+{
+    "name": "-gestion-apprenants",
+    "version": "1.0.0",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "-gestion-apprenants@1.0.0",
+    "maintainers": [
+        {
+            "name": "bachir_uchiwa",
+            "email": "pabassdiame76@gmail.com"
+        }
+    ],
+    "bin": {
+        "create-squelette": "bin/cli.js"
+    },
+    "dist": {
+        "shasum": "494fa870352ba0caa099991da20ae97bad6d069f",
+        "tarball": "https://registry.npmjs.org/-gestion-apprenants/-/-gestion-apprenants-1.0.0.tgz",
+        "fileCount": 249,
+        "integrity": "sha512-/bfd8cKu5TpHVrrhu+xxp+UQ/rvrty+6VTGV2oUOActXN8gEkFCV0hbbPErtri+yzkuVU92zka4UQbpF1xUuIg==",
+        "signatures": [
+            {
+                "sig": "MEUCIQCgLLBc7R8yXjyR/83EP+Idn1HdERjanlAnNxFNCCnlnAIgGMT9NA+A6vSQ5VSoh5YO5E+JSHQ0umeLMligQ6A9gDY=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 188642
+    },
+    "main": "index.js",
+    "type": "module",
+    "gitHead": "133f53328173126c60d880ead885d8d54ddda569",
+    "scripts": {
+        "dev": "nodemon --watch src --exec node --loader ts-node/esm ./src/server.ts",
+        "seed": "ts-node --esm dist/seed.js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc -w",
+        "start": "node dist/server.js"
+    },
+    "_npmUser": {
+        "name": "bachir_uchiwa",
+        "email": "pabassdiame76@gmail.com"
+    },
+    "_npmVersion": "10.9.2",
+    "directories": {},
+    "_nodeVersion": "22.16.0",
+    "dependencies": {
+        "zod": "^4.1.5",
+        "bcrypt": "^6.0.0",
+        "dotenv": "^17.2.1",
+        "express": "^5.1.0",
+        "jsonwebtoken": "^9.0.2",
+        "@prisma/client": "^6.15.0"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "prisma": "^6.15.0",
+        "nodemon": "^3.1.10",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.9.2",
+        "@types/node": "^24.3.0",
+        "ts-node-dev": "^2.0.0",
+        "@types/bcrypt": "^6.0.0",
+        "@types/dotenv": "^6.1.1",
+        "@types/express": "^5.0.3",
+        "@types/jsonwebtoken": "^9.0.10"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/-gestion-apprenants_1.0.0_1757338562429_0.5463186295010742",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}
