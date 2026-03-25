@@ -1,6 +1,6 @@
 {
     "name": "00h-cli-number-guessing-game",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "main": "index.js",
     "type": "module",
     "bin": {
@@ -17,19 +17,19 @@
     "devDependencies": {
         "@types/inquirer": "^9.0.7"
     },
-    "_id": "00h-cli-number-guessing-game@1.0.0",
+    "_id": "00h-cli-number-guessing-game@2.0.0",
     "_nodeVersion": "20.11.1",
     "_npmVersion": "10.2.4",
     "dist": {
-        "integrity": "sha512-rIBq3qAUmRHHfC6NybaFS5S+yl0iUY2qft+35eN/+6oIk7cKOlGuy6dDJe5wdo+pkx0osVQRsq0GaJQHRln0WA==",
-        "shasum": "9b88865cf8e6c47fe3cd579b0e31cf9a9a549458",
-        "tarball": "https://registry.npmjs.org/00h-cli-number-guessing-game/-/00h-cli-number-guessing-game-1.0.0.tgz",
+        "integrity": "sha512-6lo4KRwJs1yocoLDuP78KR0zrOwVuY+JOoZtSmByRR+boC0s3PLSUne0faq+3VANBUl3WLAVAdHDVUPV7e69+g==",
+        "shasum": "b109874a3d1db465c5fd481a28ef87994bb76ced",
+        "tarball": "https://registry.npmjs.org/00h-cli-number-guessing-game/-/00h-cli-number-guessing-game-2.0.0.tgz",
         "fileCount": 5,
-        "unpackedSize": 13790,
+        "unpackedSize": 13792,
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEYCIQC7VpwhBF6MsRUNH/FcpWCurHFgpnONRyECxvCR+AQi4QIhANQ0u4h0m5bCZC/YzXulPaaD7BuVlHZuNNLsC3BcuMhe"
+                "sig": "MEUCICz/ihrwfAcHHyuqdm5S4lD2tRqCZUldglvqIY+/Ygn3AiEApJUDO8f40zn7MLzhPIGqojNqIdrANvQq5pd4qsLKlLg="
             }
         ]
     },
@@ -46,7 +46,7 @@
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/00h-cli-number-guessing-game_1.0.0_1713743074611_0.08553712203317576"
+        "tmp": "tmp/00h-cli-number-guessing-game_2.0.0_1713744110950_0.08468497462032287"
     },
     "_hasShrinkwrap": false
 }

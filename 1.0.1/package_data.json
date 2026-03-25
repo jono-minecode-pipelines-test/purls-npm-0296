@@ -1,72 +1,39 @@
 {
-    "name": "-gestion-apprenants",
+    "name": "005-http",
     "version": "1.0.1",
-    "bin": {
-        "create-gestion-apprenants": "bin/cli.js"
-    },
+    "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "dev": "nodemon --watch src --exec node --loader ts-node/esm ./src/server.ts",
-        "build": "tsc -w",
-        "start": "node dist/server.js",
-        "seed": "ts-node --esm dist/seed.js"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
     "author": "",
     "license": "ISC",
-    "type": "module",
-    "devDependencies": {
-        "@types/bcrypt": "^6.0.0",
-        "@types/dotenv": "^6.1.1",
-        "@types/express": "^5.0.3",
-        "@types/jsonwebtoken": "^9.0.10",
-        "@types/node": "^24.3.0",
-        "nodemon": "^3.1.10",
-        "prisma": "^6.15.0",
-        "ts-node": "^10.9.2",
-        "ts-node-dev": "^2.0.0",
-        "typescript": "^5.9.2"
+    "_id": "005-http@1.0.1",
+    "_npmVersion": "5.0.0",
+    "_nodeVersion": "8.0.0",
+    "_npmUser": {
+        "name": "guobear",
+        "email": "491022279@qq.com"
     },
-    "dependencies": {
-        "@prisma/client": "^6.15.0",
-        "bcrypt": "^6.0.0",
-        "dotenv": "^17.2.1",
-        "express": "^5.1.0",
-        "jsonwebtoken": "^9.0.2",
-        "zod": "^4.1.5"
-    },
-    "_id": "-gestion-apprenants@1.0.1",
-    "gitHead": "2ae1c77651265710047c0dfc51a8d616e568381d",
-    "_nodeVersion": "22.16.0",
-    "_npmVersion": "10.9.2",
     "dist": {
-        "integrity": "sha512-FKMKL9qHN7ayZnRgDljnk2LR7/8s6ubl8ufnCrsKLgLc4Ibw+k6sN7X87zcYx0V2Wys+wtCUSK2zlIPItnvbkw==",
-        "shasum": "fde7d01ad4d8b9e123ef2af03b360258cb88753d",
-        "tarball": "https://registry.npmjs.org/-gestion-apprenants/-/-gestion-apprenants-1.0.1.tgz",
-        "fileCount": 249,
-        "unpackedSize": 189442,
+        "integrity": "sha512-6+8BJBnw+O4lWxQOpu+FvBlj2eFNI0y6Zf8NlxoR+3o4nupbG7KG7g6ip9ZFl4lu80MRLBPrkbVr15IYCLQ2hw==",
+        "shasum": "d906bfa511198abe97aa76616cf88ec91687b482",
+        "tarball": "https://registry.npmjs.org/005-http/-/005-http-1.0.1.tgz",
         "signatures": [
             {
-                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
-                "sig": "MEQCIGSbqXvve+CKQfypgH4Oyx1JeAoQkywr2fJW2OsVcJjFAiAtg1syOmvFmXkXV+iHFbgNrcZ5jbytxEPPfm2ZqwGZcw=="
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFI27ZYwelA92Jcf3KDwTRg1jgAgTQ0CgCUi6CsRM7YQAiBhcMXyppW6+K7sbxWmrG+bqorzIiY0n1MCNH4e2c7UpA=="
             }
         ]
     },
-    "_npmUser": {
-        "name": "bachir_uchiwa",
-        "email": "pabassdiame76@gmail.com"
-    },
-    "directories": {},
     "maintainers": [
         {
-            "name": "bachir_uchiwa",
-            "email": "pabassdiame76@gmail.com"
+            "name": "guobear",
+            "email": "491022279@qq.com"
         }
     ],
     "_npmOperationalInternal": {
-        "host": "s3://npm-registry-packages-npm-production",
-        "tmp": "tmp/-gestion-apprenants_1.0.1_1757340087019_0.1641191765265495"
-    },
-    "_hasShrinkwrap": false
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/005-http-1.0.1.tgz_1501061299685_0.8198118328582495"
+    }
 }
